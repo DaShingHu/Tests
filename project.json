@@ -1,0 +1,10 @@
+{
+    "name": "Tests",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "c",
+    "executable": "Tests.script",
+    "author": "Tenteki",
+    "minimum_firmware_version": 42
+}
